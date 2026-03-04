@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "シングル・アゲイン",
+  "base_artist": "中西保志",
+  "createdAt": "2026-03-04T02:28:08.684622Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シングル・アゲイン",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/01_シングル・アゲイン_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シングル・アゲイン",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/02_シングル・アゲイン_竹内まりや.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シングル・アゲイン",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/03_シングル・アゲイン_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シングル・アゲイン",
+      "artist": "Akina Nakamori",
+      "has_synced": true,
+      "path": "select/04_シングル・アゲイン_Akina_Nakamori.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シングル・アゲイン",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/05_シングル・アゲイン_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シングル・アゲイン - 2022 Remaster",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/06_シングル・アゲイン_-_2022_Remaster_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シングル・アゲイン",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/07_シングル・アゲイン_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シングル・アゲイン （カラオケ）",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/08_シングル・アゲイン_(カラオケ)_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "シングル・アゲイン",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/09_シングル・アゲイン_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "シングル・アゲイン (2022 Remaster)",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/10_シングル・アゲイン_(2022_Remaster)_竹内まりや.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "シングル・アゲイン",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/11_シングル・アゲイン_竹内まりや.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "シングル・アゲイン （カラオケ）",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/12_シングル・アゲイン_(カラオケ)_竹内まりや.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "シングル・アゲイン",
+      "artist": "徳永英明",
+      "has_synced": false,
+      "path": "select/13_シングル・アゲイン_徳永英明.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "シングル・アゲイン",
+      "artist": "Hideaki Tokunaga",
+      "has_synced": false,
+      "path": "select/14_シングル・アゲイン_Hideaki_Tokunaga.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "シングル・アゲイン",
+      "artist": "YUJI NAKADA",
+      "has_synced": false,
+      "path": "select/15_シングル・アゲイン_YUJI_NAKADA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シングル・アゲイン",
+      "artist": "中西 保志",
+      "has_synced": false,
+      "path": "select/pl_01_シングル・アゲイン_中西_保志.txt"
+    }
+  ]
+}
